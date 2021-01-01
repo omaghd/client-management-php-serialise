@@ -1,6 +1,6 @@
-> Clients file     : users.txt
+> Clients file     : clients.txt
 
-> Users file       : clients.txt
+> Users file       : users.txt
 
 ---
 
